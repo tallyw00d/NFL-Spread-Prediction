@@ -1,4 +1,4 @@
-# NFL-Spread-Prediction
+# NFL-Spread-Prediction-workflow
 
 A random forest LGBM model and simple inference app to predict the final spread of NFL games.
 
